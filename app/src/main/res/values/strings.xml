@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">proyectoTEC</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="display_main">AUTOSEGURO</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="display_welcome">BIENVENIDO A AUTOSEGURO</string>
+    <string name="btn_cotizar">COTIZAR</string>
+    <string name="btn_perfil">DATOS PERSONALES</string>
+    <string name="btn_save">GUARDAR</string>
+    <string name="btn_history">Historial</string>
+</resources>

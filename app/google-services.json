@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282049466897",
+    "project_id": "seguros-b6cbe",
+    "storage_bucket": "seguros-b6cbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282049466897:android:83e41999a7dbc5e9a817b0",
+        "android_client_info": {
+          "package_name": "com.unam.proyectotec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282049466897-rhohccm4t9hrpge658m229vs73gl8640.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbHFSasxrRYCZOasRXMKD9IKCwjk5Rf7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282049466897-rhohccm4t9hrpge658m229vs73gl8640.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
